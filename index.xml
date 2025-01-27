@@ -6,17 +6,106 @@
     <description>Recent content on youmilab</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 21:07:34 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 18:28:42 -0500</lastBuildDate>
     <atom:link href="https://yuxuanliii.github.io/testwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://yuxuanliii.github.io/testwebsite/research/</link>
+      <pubDate>Sun, 26 Jan 2025 18:28:42 -0500</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>https://yuxuanliii.github.io/testwebsite/research/genai/</link>
+      <pubDate>Sun, 26 Jan 2025 18:14:58 -0500</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/research/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DTR in Education</title>
+      <link>https://yuxuanliii.github.io/testwebsite/post/dtr/</link>
+      <pubDate>Sat, 25 Jan 2025 20:09:13 -0500</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/post/dtr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DTR</title>
+      <link>https://yuxuanliii.github.io/testwebsite/research/dtr/</link>
+      <pubDate>Fri, 26 Jan 2024 18:14:40 -0500</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/research/dtr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Causal Inference in Education</title>
+      <link>https://yuxuanliii.github.io/testwebsite/post/causal/</link>
+      <pubDate>Fri, 26 Jan 2024 17:25:37 -0500</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/post/causal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faculty and Students</title>
+      <link>https://yuxuanliii.github.io/testwebsite/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Join us</title>
+      <link>https://yuxuanliii.github.io/testwebsite/joinus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/joinus/</guid>
+      <description>&lt;h3 id=&#34;prospective-students&#34;&gt;Prospective Students&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ph.D. Students&lt;/strong&gt;&lt;br&gt;
+To apply for Ph.D. in Measurement &amp;amp; Evaluation program, please xxx.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Master’s and Undergraduate Students&lt;/strong&gt;&lt;br&gt;
+To apply for a research position, please xxx.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 556A Grace Dodge Hall, 525 West 120th Street, New York, NY 10027&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;mailto:xxx@example.com&#34;&gt;xxx@example.com&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://yuxuanliii.github.io/testwebsite/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/news/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; Youmi Suk receives the Tom Ten Have Award (Honorable Mention) for early career researchers at the 2024 American Causal Inference Conference.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://yuxuanliii.github.io/testwebsite/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://yuxuanliii.github.io/testwebsite/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yuxuanliii.github.io/testwebsite/publication/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Teaching</title>
       <link>https://yuxuanliii.github.io/testwebsite/teaching/</link>
-      <pubDate>Sat, 25 Jan 2025 21:07:34 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yuxuanliii.github.io/testwebsite/teaching/</guid>
-      <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
+      <description>&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Causal Inference&lt;/li&gt;
-&lt;li&gt;Regression Analysis&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;HUDM 5122 Applied Regression Analysis&lt;/em&gt; - Fall 2024, Spring 2024, Fall 2023, Fall 2022&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;HUDM 5199 Programming for Data Science&lt;/em&gt; - Fall 2023, Spring 2022&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;HUDM 5001 Programming for Data Science&lt;/em&gt; - Fall 2024&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;HUDM 5133 Causal Inference for Program Evaluation&lt;/em&gt; - Spring 2025&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

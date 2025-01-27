@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>youmilab</title>
-    <link>https://yuxuanliii.github.io/testwebsite/</link>
+    <link>https://youmisuk.github.io/testwebsite/</link>
     <description>Recent content on youmilab</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 18:28:42 -0500</lastBuildDate>
-    <atom:link href="https://yuxuanliii.github.io/testwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmisuk.github.io/testwebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>https://yuxuanliii.github.io/testwebsite/research/</link>
+      <link>https://youmisuk.github.io/testwebsite/research/</link>
       <pubDate>Sun, 26 Jan 2025 18:28:42 -0500</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/research/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/research/</guid>
       <description></description>
     </item>
     <item>
       <title>GenAI</title>
-      <link>https://yuxuanliii.github.io/testwebsite/research/genai/</link>
+      <link>https://youmisuk.github.io/testwebsite/research/genai/</link>
       <pubDate>Sun, 26 Jan 2025 18:14:58 -0500</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/research/genai/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/research/genai/</guid>
       <description></description>
     </item>
     <item>
       <title>DTR in Education</title>
-      <link>https://yuxuanliii.github.io/testwebsite/post/dtr/</link>
+      <link>https://youmisuk.github.io/testwebsite/post/dtr/</link>
       <pubDate>Sat, 25 Jan 2025 20:09:13 -0500</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/post/dtr/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/post/dtr/</guid>
       <description></description>
     </item>
     <item>
       <title>DTR</title>
-      <link>https://yuxuanliii.github.io/testwebsite/research/dtr/</link>
+      <link>https://youmisuk.github.io/testwebsite/research/dtr/</link>
       <pubDate>Fri, 26 Jan 2024 18:14:40 -0500</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/research/dtr/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/research/dtr/</guid>
       <description></description>
     </item>
     <item>
       <title>Causal Inference in Education</title>
-      <link>https://yuxuanliii.github.io/testwebsite/post/causal/</link>
+      <link>https://youmisuk.github.io/testwebsite/post/causal/</link>
       <pubDate>Fri, 26 Jan 2024 17:25:37 -0500</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/post/causal/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/post/causal/</guid>
       <description></description>
     </item>
     <item>
       <title>Faculty and Students</title>
-      <link>https://yuxuanliii.github.io/testwebsite/people/</link>
+      <link>https://youmisuk.github.io/testwebsite/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/people/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/people/</guid>
       <description></description>
     </item>
     <item>
       <title>Join us</title>
-      <link>https://yuxuanliii.github.io/testwebsite/joinus/</link>
+      <link>https://youmisuk.github.io/testwebsite/joinus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/joinus/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/joinus/</guid>
       <description>&lt;h3 id=&#34;prospective-students&#34;&gt;Prospective Students&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -74,32 +74,32 @@ To apply for a research position, please xxx.&lt;/p&gt;
     </item>
     <item>
       <title>News</title>
-      <link>https://yuxuanliii.github.io/testwebsite/news/</link>
+      <link>https://youmisuk.github.io/testwebsite/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/news/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/news/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; Youmi Suk receives the Tom Ten Have Award (Honorable Mention) for early career researchers at the 2024 American Causal Inference Conference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[Mar. 2024]&lt;/strong&gt; &lt;a href=&#34;https://sci-info.org/tom-ten-have-award/&#34;&gt;Youmi Suk receives the Tom Ten Have Award (Honorable Mention) for early career researchers at the 2024 American Causal Inference Conference.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://yuxuanliii.github.io/testwebsite/post/</link>
+      <link>https://youmisuk.github.io/testwebsite/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/post/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/post/</guid>
       <description></description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://yuxuanliii.github.io/testwebsite/publication/</link>
+      <link>https://youmisuk.github.io/testwebsite/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/publication/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/publication/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://yuxuanliii.github.io/testwebsite/teaching/</link>
+      <link>https://youmisuk.github.io/testwebsite/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yuxuanliii.github.io/testwebsite/teaching/</guid>
+      <guid>https://youmisuk.github.io/testwebsite/teaching/</guid>
       <description>&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;HUDM 5122 Applied Regression Analysis&lt;/em&gt; - Fall 2024, Spring 2024, Fall 2023, Fall 2022&lt;/li&gt;

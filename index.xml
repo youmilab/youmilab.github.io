@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>youmilab</title>
+    <title>YoumiLab</title>
     <link>https://youmisuk.github.io/testwebsite/</link>
-    <description>Recent content on youmilab</description>
+    <description>Recent content on YoumiLab</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Feb 2025 12:00:00 +0000</lastBuildDate>
@@ -16,38 +16,17 @@
       <description>Brief summary of the post (optional)</description>
     </item>
     <item>
-      <title>GenAI</title>
-      <link>https://youmisuk.github.io/testwebsite/research/genai/</link>
-      <pubDate>Sun, 26 Jan 2025 18:14:58 -0500</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/genai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DTR in Education</title>
-      <link>https://youmisuk.github.io/testwebsite/post/dtr/</link>
-      <pubDate>Sat, 25 Jan 2025 20:09:13 -0500</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/post/dtr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DTR</title>
-      <link>https://youmisuk.github.io/testwebsite/research/dtr/</link>
-      <pubDate>Fri, 26 Jan 2024 18:14:40 -0500</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/dtr/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Causal Inference in Education</title>
-      <link>https://youmisuk.github.io/testwebsite/post/causal/</link>
-      <pubDate>Fri, 26 Jan 2024 17:25:37 -0500</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/post/causal/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Faculty and Students</title>
       <link>https://youmisuk.github.io/testwebsite/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmisuk.github.io/testwebsite/people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>https://youmisuk.github.io/testwebsite/research/genai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/research/genai/</guid>
       <description></description>
     </item>
     <item>
@@ -68,9 +47,35 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 556A Grace Dodge Hall, 525 West 120th Street, New York, NY 10027&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 552 Grace Dodge Hall, 525 West 120th Street, New York, NY 10027&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:ysuk@tc.columbia.edu&#34;&gt;ysuk@tc.columbia.edu&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Optimal Treatment Regime for Personalized Education</title>
+      <link>https://youmisuk.github.io/testwebsite/research/otr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/research/otr/</guid>
+      <description>&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;p&gt;Content here. &lt;br&gt;
+Newline: \ &lt;br&gt;
+&lt;strong&gt;Bold text.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Italic text.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;math-formula&#34;&gt;Math Formula&lt;/h3&gt;
+&lt;p&gt;If you want to include a in-line formula, please use: \( d_t \).&lt;br&gt;
+Formula block:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+\[
+A_t = d_t(S_t)
+\]&lt;p&gt;Multiple lines:&lt;/p&gt;
+\[
+\begin{aligned}
+Q(S_t, A_t) &amp;= R_t + \gamma \max_{a&#39;} Q(S_{t+1}, a&#39;) \\
+V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
+\end{aligned}
+\]&lt;h3 id=&#34;figure&#34;&gt;Figure&lt;/h3&gt;
+&lt;p&gt;Please put your figure under &lt;code&gt;static/&lt;/code&gt; folder. And the path is &lt;code&gt;&amp;quot;../../&amp;quot; + &amp;quot;path under static folder&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posts</title>
@@ -80,10 +85,24 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
       <description></description>
     </item>
     <item>
+      <title>Process Data Analysis</title>
+      <link>https://youmisuk.github.io/testwebsite/research/pda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/research/pda/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Publications</title>
       <link>https://youmisuk.github.io/testwebsite/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmisuk.github.io/testwebsite/publication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quasi-experimental Designs</title>
+      <link>https://youmisuk.github.io/testwebsite/research/qed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/research/qed/</guid>
       <description></description>
     </item>
     <item>

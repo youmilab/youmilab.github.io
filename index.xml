@@ -27,7 +27,26 @@
       <link>https://youmisuk.github.io/testwebsite/research/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmisuk.github.io/testwebsite/research/genai/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;p&gt;Content here. &lt;br&gt;
+Newline: \ &lt;br&gt;
+&lt;strong&gt;Bold text.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Italic text.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;math-formula&#34;&gt;Math Formula&lt;/h3&gt;
+&lt;p&gt;If you want to include a in-line formula, please use: \( d_t \).&lt;br&gt;
+Formula block:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+\[
+A_t = d_t(S_t)
+\]&lt;p&gt;Multiple lines:&lt;/p&gt;
+\[
+\begin{aligned}
+Q(S_t, A_t) &amp;= R_t + \gamma \max_{a&#39;} Q(S_{t+1}, a&#39;) \\
+V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
+\end{aligned}
+\]&lt;h3 id=&#34;figure&#34;&gt;Figure&lt;/h3&gt;
+&lt;p&gt;Please put your figure under &lt;code&gt;static/&lt;/code&gt; folder. And the path is &lt;code&gt;&amp;quot;../../&amp;quot; + &amp;quot;path under static folder&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us</title>
@@ -89,7 +108,26 @@ V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
       <link>https://youmisuk.github.io/testwebsite/research/pda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmisuk.github.io/testwebsite/research/pda/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;p&gt;Content here. &lt;br&gt;
+Newline: \ &lt;br&gt;
+&lt;strong&gt;Bold text.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Italic text.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;math-formula&#34;&gt;Math Formula&lt;/h3&gt;
+&lt;p&gt;If you want to include a in-line formula, please use: \( d_t \).&lt;br&gt;
+Formula block:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+\[
+A_t = d_t(S_t)
+\]&lt;p&gt;Multiple lines:&lt;/p&gt;
+\[
+\begin{aligned}
+Q(S_t, A_t) &amp;= R_t + \gamma \max_{a&#39;} Q(S_{t+1}, a&#39;) \\
+V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
+\end{aligned}
+\]&lt;h3 id=&#34;figure&#34;&gt;Figure&lt;/h3&gt;
+&lt;p&gt;Please put your figure under &lt;code&gt;static/&lt;/code&gt; folder. And the path is &lt;code&gt;&amp;quot;../../&amp;quot; + &amp;quot;path under static folder&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -103,7 +141,26 @@ V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
       <link>https://youmisuk.github.io/testwebsite/research/qed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmisuk.github.io/testwebsite/research/qed/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;p&gt;Content here. &lt;br&gt;
+Newline: \ &lt;br&gt;
+&lt;strong&gt;Bold text.&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Italic text.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;math-formula&#34;&gt;Math Formula&lt;/h3&gt;
+&lt;p&gt;If you want to include a in-line formula, please use: \( d_t \).&lt;br&gt;
+Formula block:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+\[
+A_t = d_t(S_t)
+\]&lt;p&gt;Multiple lines:&lt;/p&gt;
+\[
+\begin{aligned}
+Q(S_t, A_t) &amp;= R_t + \gamma \max_{a&#39;} Q(S_{t+1}, a&#39;) \\
+V(S_t) &amp;= \mathbb{E}_{A_t} [Q(S_t, A_t)]
+\end{aligned}
+\]&lt;h3 id=&#34;figure&#34;&gt;Figure&lt;/h3&gt;
+&lt;p&gt;Please put your figure under &lt;code&gt;static/&lt;/code&gt; folder. And the path is &lt;code&gt;&amp;quot;../../&amp;quot; + &amp;quot;path under static folder&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>

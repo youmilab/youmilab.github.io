@@ -7,5 +7,61 @@
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <atom:link href="https://youmisuk.github.io/testwebsite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital Assessment</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/digital-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/digital-assessment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extended Time</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/extended-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/extended-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Functional Data</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/functional-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/functional-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/genai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heterogenous Treatment Effect</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/heterogenous-treatment-effect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/heterogenous-treatment-effect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Policy Learning</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/policy-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/policy-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulation</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sythetic Data</title>
+      <link>https://youmisuk.github.io/testwebsite/tags/sythetic-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmisuk.github.io/testwebsite/tags/sythetic-data/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Assessment on YoumiLab</title>
-    <link>https://youmisuk.github.io/testwebsite/tags/digital-assessment/</link>
+    <link>https://youmilab.github.io/tags/digital-assessment/</link>
     <description>Recent content in Digital Assessment on YoumiLab</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <atom:link href="https://youmisuk.github.io/testwebsite/tags/digital-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmilab.github.io/tags/digital-assessment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Process Data Analysis</title>
-      <link>https://youmisuk.github.io/testwebsite/research/pda/</link>
+      <link>https://youmilab.github.io/research/pda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/pda/</guid>
+      <guid>https://youmilab.github.io/research/pda/</guid>
       <description>&lt;p&gt;This research examines how to incorporate process data for research on measurement and causal inference. Specifically, we extplore:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(i)	evaluating testing accommodations using process data from large-scale educational assessments and high-stakes testing,&lt;/li&gt;

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>YoumiLab</title>
-    <link>https://youmisuk.github.io/testwebsite/</link>
+    <link>https://youmilab.github.io/</link>
     <description>Recent content on YoumiLab</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Feb 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://youmisuk.github.io/testwebsite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmilab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://youmisuk.github.io/testwebsite/post/example/</link>
+      <link>https://youmilab.github.io/post/example/</link>
       <pubDate>Mon, 03 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/post/example/</guid>
+      <guid>https://youmilab.github.io/post/example/</guid>
       <description>Brief summary of the post (optional)</description>
     </item>
     <item>
       <title>Faculty and Students</title>
-      <link>https://youmisuk.github.io/testwebsite/people/</link>
+      <link>https://youmilab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/people/</guid>
+      <guid>https://youmilab.github.io/people/</guid>
       <description></description>
     </item>
     <item>
       <title>Generative AI</title>
-      <link>https://youmisuk.github.io/testwebsite/research/genai/</link>
+      <link>https://youmilab.github.io/research/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/genai/</guid>
+      <guid>https://youmilab.github.io/research/genai/</guid>
       <description>&lt;p&gt;This project introduces a novel approach for generating synthetic data using generative AI (GenAI) to provide more accurate evaluations of existing and new quantitative methods in real-world settings. Our framework consists of five key steps: (i) pre-processing input data, (ii) training GenAI models on input data, (iii) assessing synthetic data quality, (iv) conducting AI-based simulations, and (v) evaluating simulation results. Our original work on this project can be found below.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Join us</title>
-      <link>https://youmisuk.github.io/testwebsite/joinus/</link>
+      <link>https://youmilab.github.io/joinus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/joinus/</guid>
+      <guid>https://youmilab.github.io/joinus/</guid>
       <description>&lt;h3 id=&#34;prospective-students&#34;&gt;Prospective Students&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -53,23 +53,23 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
     </item>
     <item>
       <title>Optimal Treatment Regimes for Personalized Education</title>
-      <link>https://youmisuk.github.io/testwebsite/research/otr/</link>
+      <link>https://youmilab.github.io/research/otr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/otr/</guid>
+      <guid>https://youmilab.github.io/research/otr/</guid>
       <description>&lt;p&gt;This project aims to design personalized, data-driven policy recommendations for education programs, for example, math course-taking plans in high school. We leverage recent advances in personalized medicine, known as optimal (dynamic) treatment regimes, to recommend the best treatment option for each individual in a way that maximizes a desirable educational outcome. In addition to optimizing utility, we incorporate critical considerations such as feasibility, interpretability, and fairness into the recommendation models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://youmisuk.github.io/testwebsite/post/</link>
+      <link>https://youmilab.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/post/</guid>
+      <guid>https://youmilab.github.io/post/</guid>
       <description></description>
     </item>
     <item>
       <title>Process Data Analysis</title>
-      <link>https://youmisuk.github.io/testwebsite/research/pda/</link>
+      <link>https://youmilab.github.io/research/pda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/pda/</guid>
+      <guid>https://youmilab.github.io/research/pda/</guid>
       <description>&lt;p&gt;This research examines how to incorporate process data for research on measurement and causal inference. Specifically, we extplore:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(i)	evaluating testing accommodations using process data from large-scale educational assessments and high-stakes testing,&lt;/li&gt;
@@ -95,16 +95,16 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
     </item>
     <item>
       <title>Publications</title>
-      <link>https://youmisuk.github.io/testwebsite/publication/</link>
+      <link>https://youmilab.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/publication/</guid>
+      <guid>https://youmilab.github.io/publication/</guid>
       <description></description>
     </item>
     <item>
       <title>Quasi-experimental Designs</title>
-      <link>https://youmisuk.github.io/testwebsite/research/qed/</link>
+      <link>https://youmilab.github.io/research/qed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/qed/</guid>
+      <guid>https://youmilab.github.io/research/qed/</guid>
       <description>&lt;p&gt;This line of research focuses on developing and applying causal inference methods in educational settings, by integrating methodologies from quasi-experimental designs, machine learning, and multilevel modeling. Ongoing projects include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(1)	advancing regression discontinuity designs tailored to educational settings and integrating them with other quasi-experimental designs&lt;/li&gt;
@@ -114,16 +114,16 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
     </item>
     <item>
       <title>Research</title>
-      <link>https://youmisuk.github.io/testwebsite/research/</link>
+      <link>https://youmilab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/</guid>
+      <guid>https://youmilab.github.io/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://youmisuk.github.io/testwebsite/teaching/</link>
+      <link>https://youmilab.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/teaching/</guid>
+      <guid>https://youmilab.github.io/teaching/</guid>
       <description>&lt;h3 id=&#34;courses&#34;&gt;Courses&lt;/h3&gt;
 &lt;h4 id=&#34;at-teachers-college-columbia-university&#34;&gt;At Teachers College, Columbia University,&lt;/h4&gt;
 &lt;ul&gt;
@@ -144,9 +144,9 @@ To apply for a research position, please email Prof. Youmi Suk.&lt;/p&gt;
     </item>
     <item>
       <title>Test Fairness and Algorithmic Fairness</title>
-      <link>https://youmisuk.github.io/testwebsite/research/fair/</link>
+      <link>https://youmilab.github.io/research/fair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmisuk.github.io/testwebsite/research/fair/</guid>
+      <guid>https://youmilab.github.io/research/fair/</guid>
       <description>&lt;p&gt;This line of research examines whether established definitions of test fairness can inform algorithmic fairness (and vice versa), and how fairness considerations can be integrated into causal inference methods. Ongoing projects include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(i) exploring how fairness concepts from psychometrics (emerging in the 1960s) can inform modern algorithmic fairness (emerging in the 2010s).&lt;/li&gt;

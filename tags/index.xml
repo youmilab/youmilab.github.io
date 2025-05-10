@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on YoumiLab</title>
+    <title>Tags on YOUMI LAB</title>
     <link>https://youmilab.github.io/tags/</link>
-    <description>Recent content in Tags on YoumiLab</description>
+    <description>Recent content in Tags on YOUMI LAB</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
     <atom:link href="https://youmilab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Causal DIF</title>
+      <link>https://youmilab.github.io/tags/causal-dif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/causal-dif/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DAF</title>
+      <link>https://youmilab.github.io/tags/daf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/daf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DIF</title>
+      <link>https://youmilab.github.io/tags/dif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/dif/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Digital Assessment</title>
       <link>https://youmilab.github.io/tags/digital-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmilab.github.io/tags/digital-assessment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evidence Factors</title>
+      <link>https://youmilab.github.io/tags/evidence-factors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/evidence-factors/</guid>
       <description></description>
     </item>
     <item>
@@ -43,10 +71,24 @@
       <description></description>
     </item>
     <item>
+      <title>Multilevel Causal Inference</title>
+      <link>https://youmilab.github.io/tags/multilevel-causal-inference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/multilevel-causal-inference/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Policy Learning</title>
       <link>https://youmilab.github.io/tags/policy-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://youmilab.github.io/tags/policy-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression Discontinuity</title>
+      <link>https://youmilab.github.io/tags/regression-discontinuity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://youmilab.github.io/tags/regression-discontinuity/</guid>
       <description></description>
     </item>
     <item>

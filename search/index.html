@@ -5,12 +5,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Example | YOUMI LAB</title>
+<title>Search | YOUMI LAB</title>
 <meta name="keywords" content="">
-<meta name="description" content="Brief summary of the post (optional)">
-<meta name="author" content="Your Name">
-<link rel="canonical" href="http://localhost:1313/post/example/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.eced7904e5330750d527c2d8820019e3754b3ac089eee6582971f4d446498936.css" integrity="sha256-7O15BOUzB1DVJ8LYggAZ43VLOsCJ7uZYKXH01EZJiTY=" rel="preload stylesheet" as="style">
+<meta name="description" content="Search - YOUMI LAB">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/search/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.eced7904e5330750d527c2d8820019e3754b3ac089eee6582971f4d446498936.css" integrity="sha256-7O15BOUzB1DVJ8LYggAZ43VLOsCJ7uZYKXH01EZJiTY=" rel="preload stylesheet" as="style"><link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+<script defer crossorigin="anonymous" src="/assets/js/search.0cb52d6b1628dc11278c9d7d1418939954e1ba118f5e2c29f43a3c0b14d5a8e4.js" integrity="sha256-DLUtaxYo3BEnjJ19FBiTmVThuhGPXiwp9Do8CxTVqOQ="></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 <script>
   MathJax = {
@@ -31,7 +32,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/post/example/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/search/">
 <noscript>
     <style>
         #theme-toggle,
@@ -71,7 +72,7 @@
 </noscript>
 </head>
 
-<body class="" id="top">
+<body class="list" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -156,84 +157,21 @@
 </header>
 <main class="main">
 
-<article class="post-single">
-  <header class="post-header">
-    
-    <h1 class="post-title entry-hint-parent">
-      Example
-      <span class="entry-hint" title="Draft">
-        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
-          <path
-            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+<header class="page-header">
+    <h1>Search <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
         </svg>
-      </span>
     </h1>
-    <div class="post-meta"><span title='2025-02-03 12:00:00 +0000 UTC'>February 3, 2025</span>&nbsp;·&nbsp;Your Name
+    <div class="post-meta"></div>
+</header>
 
+<div id="searchbox">
+    <input id="searchInput" autofocus placeholder="Search ↵"
+        aria-label="search" type="search" autocomplete="off" maxlength="64">
+    <ul id="searchResults" aria-label="search results"></ul>
 </div>
-  </header> <div class="toc">
-    <details >
-        <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Table of Contents</span>
-        </summary>
-
-        <div class="inner"><ul>
-                <li>
-                    <a href="#headings" aria-label="Headings">Headings</a></li>
-                <li>
-                    <a href="#math-formula" aria-label="Math Formula">Math Formula</a></li>
-                <li>
-                    <a href="#figure" aria-label="Figure">Figure</a></li>
-                <li>
-                    <a href="#code-blocks" aria-label="Code blocks">Code blocks</a>
-                </li>
-            </ul>
-        </div>
-    </details>
-</div>
-
-  <div class="post-content"><h2 id="headings">Headings<a hidden class="anchor" aria-hidden="true" href="#headings">#</a></h2>
-<p>Content here. <br>
-Newline: \ <br>
-<strong>Bold text.</strong><br>
-<em>Italic text.</em></p>
-<h2 id="math-formula">Math Formula<a hidden class="anchor" aria-hidden="true" href="#math-formula">#</a></h2>
-<p>If you want to include a in-line formula, please use: \( d_t \).<br>
-Formula block:</p>
-<!-- Please seperate math formula and text. -->
-\[
-A_t = d_t(S_t)
-\]<p>Multiple lines:</p>
-\[
-\begin{aligned}
-Q(S_t, A_t) &= R_t + \gamma \max_{a'} Q(S_{t+1}, a') \\
-V(S_t) &= \mathbb{E}_{A_t} [Q(S_t, A_t)]
-\end{aligned}
-\]<h2 id="figure">Figure<a hidden class="anchor" aria-hidden="true" href="#figure">#</a></h2>
-<p>Please put your figure under <code>static/</code> folder. And the path is <code>&quot;../../&quot; + &quot;path under static folder&quot;</code>.</p>
-<p>You can add a <strong>figure</strong> using Markdown’s <code>![Alt Text](path)</code> syntax:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-md" data-lang="md"><span style="display:flex;"><span>![<span style="color:#f92672">Example</span>](<span style="color:#a6e22e">../../research/DTR.jpg</span>)
-</span></span></code></pre></div><p><img alt="Example" loading="lazy" src="../../research/DTR.jpg"></p>
-<h2 id="code-blocks">Code blocks<a hidden class="anchor" aria-hidden="true" href="#code-blocks">#</a></h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-r" data-lang="r"><span style="display:flex;"><span>a <span style="color:#f92672">&lt;-</span> <span style="color:#ae81ff">5</span>
-</span></span><span style="display:flex;"><span><span style="color:#a6e22e">print</span>(a)
-</span></span></code></pre></div>
-
-  </div>
-
-  <footer class="post-footer">
-    <ul class="post-tags">
-    </ul>
-  </footer><script src="https://utteranc.es/client.js"
-        repo="youmilab/youmilab.github.io"
-        issue-term="pathname"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-</article>
     </main>
     
 <footer class="footer">

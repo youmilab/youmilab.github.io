@@ -1,10 +1,10 @@
 # YoumiLab Website
 
-This repository contains the source code for the YoumiLab website. The website is built using the Hugo PaperMod template with custom modifications.
+This repository contains the source code for the YOUMILAB website. The website is built using the Hugo PaperMod template with custom modifications.
 
 ## Instruction for Content Modifications
 
-- **Homepage:** Title and overall descriptions should be modified at the end of `hugo.yaml` under `homeInfoParams`.
+- **Homepage:** Title and overall descriptions should be modified at the `layouts/partials/home_info.html` file.
 - **News:** News can be added in `data/news.yaml` following the previous format. `newsUrl` is optional.
 - **People:** People's information can be added in `data/people.yaml`. `webpage` and `cv` are optional. The photos and cvs are placed under folder `static/people/`.
 - **Research:**

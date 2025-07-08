@@ -125,6 +125,15 @@
 <meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">
 <meta name="msapplication-TileColor" content="{{ site.Params.assets.msapplication_TileColor | default "#2e2e33" }}">
 
+<link rel="icon" href="/logo/labLogo.png" type="image/png">
+<!-- Open Graph -->
+<meta property="og:title" content="YOUMI LAB" />
+<meta property="og:site_name" content="YOUMI LAB" />
+<!-- <meta property="og:description" content="Research at Youmi Lab led by Dr. Youmi Suk, focusing on measurement, evaluation, and education." /> -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://youmilab.github.io/" />
+<meta property="og:image" content="https://youmilab.github.io/logo/labLogo.png" />
+
 {{- /* RSS */}}
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type | html }}" href="{{ .Permalink | safeURL }}">

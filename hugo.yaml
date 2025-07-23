@@ -75,11 +75,12 @@ markup:
 Params:
     postSections: ["post"]
     researchSections: ["research"]
+    description: "Youmi Lab, led by Dr. Youmi Suk, specializes in the intersection of data science and causal inference in education."
     #disableThemeToggle: true
     math: true
 
     label:
-        text: 'YOUMI LAB'
+        text: 'Youmi Lab'
         #icon: "YoumiLab_logo.png"
         #iconHeight: 50
 

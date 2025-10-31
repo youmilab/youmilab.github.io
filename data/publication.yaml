@@ -2,6 +2,11 @@
 
 workingPapers:
 
+  - paperTitle : "A comparison study of synthetic data generation for statistical fidelity and data utility across multiple types of columns"
+    publicInfo : "The 2026 Association for the Advancement of Artificial Intelligence for Social Impact track (AAAI AISI 2026)"
+    publicDate: "2025"
+    authors: "Akindele, S., <strong>Youmi Suk</strong>, Ke Yang"
+
   - paperTitle : "Rethinking item fairness using single world intervention graphs"
     publicInfo : "PsyArXiv"
     publicDate: "2025"
@@ -14,18 +19,6 @@ workingPapers:
   publisher={OSF}
 }"
 
-
-  - paperTitle : "Using generative AI for sequential data generation in Monte Carlo simulation studies"
-    publicInfo : "PsyArXiv"
-    publicDate: "2025"
-    authors: "<strong>Youmi Suk</strong>, <strong>Chenguang Pan</strong>, Ke Yang"
-    PDFUrl : "https://doi.org/10.31234/osf.io/7rd86_v1"
-    citeText: "@article{suk2025using,
-  title={Using Generative AI for Sequential Data Generation in Monte Carlo Simulation Studies},
-  author={Suk, Youmi and Pan, Chenguang and Yang, Ke},
-  year={2025},
-  publisher={OSF}
-}"
 
   - paperTitle : "Causal mediation and functional outcome analysis with process data"
     publicInfo : "PsyArXiv"
@@ -55,18 +48,37 @@ workingPapers:
   publisher={Center for Open Science}
 }"
 
-  - paperTitle : "Evidence factors in fuzzy regression discontinuity designs with sequential treatment assignments"
-    publicInfo : "PsyArXiv"
-    publicDate: "2024"
-    authors: "Youjin Lee, <strong>Youmi Suk</strong>"
-    PDFUrl : "https://osf.io/preprints/psyarxiv/29tp4_v1"
-    citeText: "@article{lee2024evidence,
-  title={Evidence Factors in Fuzzy Regression Discontinuity Designs with Sequential Treatment Assignments},
-  author={Lee, Youjin and Suk, Youmi},
-  year={2024}
-}"
 
 methods:
+
+  - paperTitle : "Using generative AI for sequential data generation in Monte Carlo simulation studies"
+    publicInfo : "Journal of Educational and Behavioral Statistics"
+    publicDate: "In Press"
+    authors: "<strong>Youmi Suk</strong>, <strong>Chenguang Pan</strong>, Ke Yang"
+    PDFUrl : "https://doi.org/10.31234/osf.io/7rd86_v2"
+    citeText: "@article{suk2025using,
+                title={Using Generative AI for Sequential Data Generation in Monte Carlo Simulation Studies},
+                author={Suk, Youmi and Pan, Chenguang and Yang, Ke},
+                year={2025},
+                publisher={OSF}
+                }"
+
+  - paperTitle : "Evidence factors in fuzzy regression discontinuity designs with sequential treatment assignments"
+    publicInfo : "Psychometrika"
+    publicDate: "2025"
+    authors: "Youjin Lee, <strong>Youmi Suk</strong>"
+    paperUrl: "https://doi.org/10.1017/psy.2025.10033"
+    PDFUrl: "https://osf.io/preprints/psyarxiv/29tp4_v1"
+    citeText: "@article{Lee_Suk_2025, 
+                title={Evidence Factors in Fuzzy Regression Discontinuity Designs with Sequential Treatment Assignments}, 
+                DOI={10.1017/psy.2025.10033}, 
+                journal={Psychometrika}, 
+                author={Lee, Youjin and Suk, Youmi}, 
+                year={2025}, 
+                pages={1–19}
+                }"
+
+
   - paperTitle : "Fuzzy regression discontinuity designs with multiple control groups under one-sided noncompliance: Evaluating extended time accommodations"
     publicInfo : "Journal of Educational and Behavioral Statistics"
     publicDate: "2024"
@@ -84,7 +96,7 @@ methods:
                 }"
     
   - paperTitle : "Evaluating intersectional fairness in algorithmic decision making using intersectional differential algorithmic functioning"
-    publicInfo : "Journal of Educational and Behavioral Statistics"
+    publicInfo : "Journal of Educational and Behavioral Statistics, 50(5), 833-862"
     publicDate: "2024"
     authors: "<strong>Youmi Suk</strong>, Kyung (Chris) T. Han"
     paperUrl : "https://journals.sagepub.com/doi/10.3102/10769986241269820"

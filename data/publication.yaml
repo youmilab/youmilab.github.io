@@ -5,7 +5,7 @@ workingPapers:
   - paperTitle : "A comparison study of synthetic data generation for statistical fidelity and data utility across multiple types of columns"
     publicInfo : "The 2026 Association for the Advancement of Artificial Intelligence for Social Impact track (AAAI AISI 2026)"
     publicDate: "2025"
-    authors: "Akindele, S., <strong>Youmi Suk</strong>, Ke Yang"
+    authors: "Sinmi Akindele, <strong>Youmi Suk</strong>, Ke Yang"
 
   - paperTitle : "Rethinking item fairness using single world intervention graphs"
     publicInfo : "PsyArXiv"

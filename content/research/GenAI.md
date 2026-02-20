@@ -12,7 +12,7 @@ This project introduces a novel approach for generating synthetic data using gen
 
 ### Publications/Working Papers
 
-- Suk, Y., Pan, C., & Yang, K. (2025). Using Generative AI for sequential data generation in Monte Carlo simulation studies. Journal of Educational and Behavioral Statistics. [[Journal Article](tps://doi.org/10.3102/10769986251397559)] [[Preprint](https://doi.org/10.31234/osf.io/7rd86_v2)]
+- Suk, Y., Pan, C., & Yang, K. (2025). Using Generative AI for sequential data generation in Monte Carlo simulation studies. Journal of Educational and Behavioral Statistics. [[Journal Article](https://doi.org/10.3102/10769986251397559)] [[Preprint](https://doi.org/10.31234/osf.io/7rd86_v2)]
 
 ### Recent Conferences/Seminars
 

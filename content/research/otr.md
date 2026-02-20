@@ -21,7 +21,7 @@ This work is supported by NSF’s EHR Core Research Building Capacity in STEM Ed
 
 - Li, Y., Pan, C., & Suk, Y. (2026, April). Designing feasible optimal treatment regimes for personalized education. The American Educational Research Association (AERA), Los Angeles, CA, U.S.
 
-- Pan, C.$^*$, Li, Y.$^*$, \& \textbf{Suk, Y.} (2026, April). \textit {Enhancing the interpretability of heterogeneous treatment effects using Kolmogorov Arnold Network.} Paper to be presented at the American Educational Research Association (AERA), Los Angeles, CA, U.S.}
+- Pan, C., Li, Y., & Suk, Y. (2026, April). Enhancing the interpretability of heterogeneous treatment effects using Kolmogorov Arnold Network. The American Educational Research Association (AERA), Los Angeles, CA, U.S.
 
 - Li, Y., Pan, C., & Suk, Y. (2025, Oct). Improving the feasibility of optimal treatment regimes for personalized education. The 3rd Annual Conference of Advanced Quantitative Methods and Analytics for Public Policy Support (AQMAPPS), New York, NY, U.S.
 

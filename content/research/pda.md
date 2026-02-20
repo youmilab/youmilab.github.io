@@ -17,7 +17,7 @@ These projects are supported in part by TC Provost’s Faculty Collaboration Fun
 
 ### Publications/Working Papers
 -	Suk, Y., & Park, C. (2026). Causal mediation and functional outcome analysis with process data. PsyArXiv. (Equal Contribution) [[Journal Article](https://doi.org/10.1017/psy.2026.10087)] [[Preprint](https://osf.io/preprints/psyarxiv/xhwv4_v1)] [[R Code](https://github.com/qkrcks0218/FDA)]
--	Lee, Y., & Suk, Y. (2024). Evidence factors in fuzzy regression discontinuity designs with sequential treatment assignments. Psychometrika, 90(4), 1400-1418.  [[Journal Article](https://doi.org/10.1017/psy.2025.10033)] [[Preprint](https://osf.io/preprints/psyarxiv/29tp4_v2)] [[R Code](https://github.com/youjin1207/EFinFuzzyRD)]
+-	Lee, Y., & Suk, Y. (2025). Evidence factors in fuzzy regression discontinuity designs with sequential treatment assignments. Psychometrika, 90(4), 1400-1418.  [[Journal Article](https://doi.org/10.1017/psy.2025.10033)] [[Preprint](https://osf.io/preprints/psyarxiv/29tp4_v2)] [[R Code](https://github.com/youjin1207/EFinFuzzyRD)]
 -	Suk, Y., & Kim, Y. (2024). Fuzzy regression discontinuity designs with multiple control groups under one-sided noncompliance: Evaluating extended time accommodations. Journal of Educational and Behavioral Statistics, 50(6), 962-984. [[Journal Article](https://journals.sagepub.com/doi/10.3102/10769986241268902)] [[Preprint](https://osf.io/preprints/psyarxiv/sa96g)] [[R Code](https://github.com/youmisuk/fuzzyRD_MG)]
 
 ### Recent Conferences/Seminars

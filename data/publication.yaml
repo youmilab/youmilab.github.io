@@ -1,66 +1,90 @@
-
+  
 
 workingPapers:
 
-  - paperTitle : "A comparison study of synthetic data generation for statistical fidelity and data utility across multiple types of columns"
-    publicInfo : "The 2026 Association for the Advancement of Artificial Intelligence for Social Impact track (AAAI AISI 2026)"
-    publicDate: "2025"
+  - paperTitle : "Using response process data to measure test-taking effort in students receiving extended time accommodations"
+    publicInfo : "Applied Measurement in Education"
+    publicDate: "2026"
+    authors: "<strong>Youmi Suk</strong>, <strong>Yuxin Cai</strong>, Benjamin J. Lovett"
+
+  - paperTitle : "A comparison study of synthetic data generation for series data"
+    publicInfo : "The 2026 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)"
+    publicDate: "2026"
     authors: "Sinmi Akindele, <strong>Youmi Suk</strong>, Ke Yang"
-
-  - paperTitle : "Rethinking item fairness using single world intervention graphs"
+    
+  - paperTitle : "Learning feasible optimal treatment regimes for personalized decision-making"
     publicInfo : "PsyArXiv"
-    publicDate: "2025"
-    authors: "<strong>Youmi Suk</strong>, Weicong Lyu"
-    PDFUrl : "https://doi.org/10.31234/osf.io/bue62_v1"
-    citeText: "@article{suk2025rethinking,
-  title={Rethinking Item Fairness Using Single World Intervention Graphs},
-  author={Suk, Youmi and Lyu, Weicong},
-  year={2025},
-  publisher={OSF}
-}"
-
-
-  - paperTitle : "Causal mediation and functional outcome analysis with process data"
-    publicInfo : "PsyArXiv"
-    publicDate: "2025"
-    authors: "<strong>Youmi Suk</strong>, Chan Park (Equal Contribution)"
-    PDFUrl : "https://osf.io/preprints/psyarxiv/xhwv4_v1"
-    citeText: "@misc{suk_park_2025,
- title={Causal Mediation and Functional Outcome Analysis with Process Data},
- url={osf.io/preprints/psyarxiv/xhwv4_v1},
- DOI={10.31234/osf.io/xhwv4_v1},
- publisher={PsyArXiv},
- author={Suk, Youmi and Park, Chan},
- year={2025},
- month={Jan}
-}"
+    publicDate: "2026"
+    authors: "<strong>Chenguang Pan</strong>, <strong>Yuxuan Li</strong>, <strong>Youmi Suk</strong>"
+    PDFUrl : "https://doi.org/10.31234/osf.io/arp48_v1"
+    citeText: "@article{pan2026learning,
+      title={Learning feasible optimal treatment regimes for personalized decision-making},
+      author={Pan, Chenguang and Li, Yuxuan and Suk, Youmi},
+      year={2026},
+      DOI={10.31234/osf.io/arp48_v1},
+      publisher={PsyArXiv}
+    }"    
 
   - paperTitle : "Fair and robust estimation of heterogeneous treatment effects for optimal policies in multilevel studies"
     publicInfo : "PsyArXiv"
     publicDate: "2024"
     authors: "<strong>Youmi Suk</strong>, Chan Park, <strong>Chenguang Pan</strong>, Kwangho Kim"
-    PDFUrl : "https://doi.org/10.31234/osf.io/xz3jw"
+    PDFUrl : "https://doi.org/10.31234/osf.io/xz3jw_v2"
     codeUrl: "https://github.com/youmisuk/FairCATE-Multilevel"
     citeText: "@article{suk2024fair,
-  title={Fair and Robust Estimation of Heterogeneous Treatment Effects for Optimal Policies in Multilevel Studies},
-  author={Suk, Youmi and Park, Chan and Pan, Chenguang and Kim, Kwangho},
-  year={2024},
-  publisher={Center for Open Science}
-}"
+      title={Fair and Robust Estimation of Heterogeneous Treatment Effects for Optimal Policies in Multilevel Studies},
+      author={Suk, Youmi and Park, Chan and Pan, Chenguang and Kim, Kwangho},
+      year={2024},
+      publisher={PsyArXiv}
+    }"
 
 
 methods:
 
+
+  - paperTitle : "Rethinking item fairness using single world intervention graphs"
+    publicInfo : "Journal of Educational and Behavioral Statistics"
+    publicDate: "2026"
+    authors: "<strong>Youmi Suk</strong>, Weicong Lyu"
+    paperUrl: "https://doi.org/10.3102/10769986251415570"    
+    PDFUrl : "https://doi.org/10.31234/osf.io/bue62_v3"
+    codeUrl: "https://github.com/youmisuk/causalDIF"    
+    citeText: "@article{suk2026rethinking,
+     title={Rethinking Item Fairness Using Single World Intervention Graphs},
+     author={Suk, Youmi and Lyu, Weicong},
+     year={2026},
+     journal={Journal of Educational and Behavioral Statistics},
+     DOI={10.3102/10769986251415570}
+   }"
+
+
+  - paperTitle : "Causal mediation and functional outcome analysis with process data"
+    publicInfo : "Psychometrika"
+    publicDate: "2026"
+    authors: "<strong>Youmi Suk</strong>, Chan Park (Equal Contribution)"
+    paperUrl: "https://doi.org/10.1017/psy.2026.10087"
+    codeUrl: "https://github.com/qkrcks0218/FDA"    
+    citeText: "@article{suk2026causal,
+       title={Causal Mediation and Functional Outcome Analysis with Process Data},
+       DOI={10.1017/psy.2026.10087},
+       journal={Psychometrika},
+       author={Suk, Youmi and Park, Chan},
+       year={2025}
+    }"
+
   - paperTitle : "Using generative AI for sequential data generation in Monte Carlo simulation studies"
     publicInfo : "Journal of Educational and Behavioral Statistics"
-    publicDate: "In Press"
-    authors: "<strong>Youmi Suk</strong>, <strong>Chenguang Pan</strong>, Ke Yang"
+    publicDate: "2025"
+    authors: "<strong>Youmi Suk</strong>, <strong>Chenguang Pan</strong>, Ke Yang"    
+    paperUrl: "https://doi.org/10.3102/10769986251397559"
     PDFUrl : "https://doi.org/10.31234/osf.io/7rd86_v2"
+    codeUrl: "https://github.com/youmisuk/GenAI_simu"    
     citeText: "@article{suk2025using,
                 title={Using Generative AI for Sequential Data Generation in Monte Carlo Simulation Studies},
                 author={Suk, Youmi and Pan, Chenguang and Yang, Ke},
                 year={2025},
-                publisher={OSF}
+                journal={Journal of Educational and Behavioral Statistics},
+                DOI={10.3102/10769986251397559}
                 }"
 
   - paperTitle : "Evidence factors in fuzzy regression discontinuity designs with sequential treatment assignments"
@@ -69,15 +93,17 @@ methods:
     authors: "Youjin Lee, <strong>Youmi Suk</strong>"
     paperUrl: "https://doi.org/10.1017/psy.2025.10033"
     PDFUrl: "https://osf.io/preprints/psyarxiv/29tp4_v1"
+    codeUrl: "https://github.com/youjin1207/EFinFuzzyRD"    
     citeText: "@article{Lee_Suk_2025, 
                 title={Evidence Factors in Fuzzy Regression Discontinuity Designs with Sequential Treatment Assignments}, 
                 DOI={10.1017/psy.2025.10033}, 
                 journal={Psychometrika}, 
                 author={Lee, Youjin and Suk, Youmi}, 
-                year={2025}, 
-                pages={1–19}
+                year={2025},
+                volume={90},
+                number={4},
+                pages={1400-1418}
                 }"
-
 
   - paperTitle : "Fuzzy regression discontinuity designs with multiple control groups under one-sided noncompliance: Evaluating extended time accommodations"
     publicInfo : "Journal of Educational and Behavioral Statistics"

@@ -17,12 +17,16 @@ This line of research examines whether established definitions of test fairness 
 These projects are supported in part by an NSF grant.
 
 ### Publications/Working Papers
-- Suk, Y., & Lyu, W. (2025). Rethinking Item Fairness Using Single World Intervention Graphs. PsyArXiv. [[Preprint](https://doi.org/10.31234/osf.io/bue62_v1)]
-- Suk, Y., Park, C., Pan, C., & Kim, K. (2024). Fair and robust estimation of heterogeneous treatment effects for optimal policies in multilevel studies. PsyArXiv. [[Preprint](https://doi.org/10.31234/osf.io/xz3jw)] [[R code](https://github.com/youmisuk/FairCATE-Multilevel)]
+- Suk, Y., & Lyu, W. (2026). Identifying causes of test unfairness: Manipulability and separability. arXiv. [[Preprint](https://doi.org/10.48550/arXiv.2601.13449)]
+- Suk, Y., & Lyu, W. (2026). Rethinking item fairness using single world intervention graphs. Journal of Educational and Behavioral Statistics. [[Journal Article](https://doi.org/10.3102/10769986251415570)] [[Preprint](https://doi.org/10.31234/osf.io/bue62_v3)]
+- Suk, Y., Park, C., Pan, C., & Kim, K. (2024). Fair and robust estimation of heterogeneous treatment effects for optimal policies in multilevel studies. PsyArXiv. [[Preprint](https://doi.org/10.31234/osf.io/xz3jw_v2)] [[R code](https://github.com/youmisuk/FairCATE-Multilevel)]
 - Suk, Y., & Han, K. T. (2024). Evaluating intersectional fairness in algorithmic decision making using intersectional differential algorithmic functioning. Journal of Educational and Behavioral Statistics. [[Journal Article](https://journals.sagepub.com/doi/10.3102/10769986241269820)] [[Preprint](https://osf.io/preprints/psyarxiv/e93js_v1)]
 - Suk, Y., & Han, K. T. (2024). A psychometric framework for evaluating fairness in algorithmic decision making: differential algorithmic functioning. Journal of Educational and Behavioral Statistics, 49(2), 151-172. [[Journal Article](https://doi.org/10.3102/10769986231171711)] [[Preprint](https://doi.org/10.31234/osf.io/4cpdn)] [[R code](https://github.com/youmisuk/DAF)]
 
 ### Recent Conferences/Seminars
+- Suk, Y., & Lyu, W. (2026, Apr.). Rethinking item fairness using single world intervention graphs.} Paper  to be presented at the National Council on Measurement in Education (NCME), Los Angeles, CA, U.S.}
+- Suk, Y., Park, C., Pan., C., & Kim, K. (2025, Oct). Fair and robust estimation of heterogeneous treatment effects in multilevel studies. The Society for Research on Educational Effectiveness (SREE), Chicago, IL, U.S.
+- Suk, Y., Park, C., Pan., C., & Kim, K. (2025, July). Fair and robust estimation of heterogeneous treatment effects in multilevel studies.  The International Conference on Education Research (ICER), Seoul, South Korea.
 - Suk, Y., & Lyu, W. (2025, Apr.). Rethinking item fairness with counterfactuals and single-world intervention graphs. The European Causal Inference Meeting (EuroCIM), Ghent, Belgium. 
 - Suk, Y., & Han, K. T. (2024, Apr.). A framework for evaluating intersectional fairness in algorithmic decision making. The National Council on Measurement in Education (NCME), Philadelphia, PA, U.S.
 - Suk, Y., Kim, K., & Park, C. (2024, Apr.). Towards fair and personalized education policy: Reducing racial and state disparities in advanced math courses. The American Educational Research Association (AERA), Philadelphia, PA, U.S.

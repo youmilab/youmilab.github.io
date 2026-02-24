@@ -1,7 +1,15 @@
 {{ range . }}
 <div class="works">
     <div class="name">{{ .paperTitle }}</a></div>
-    <p class="publicInfo">{{ .publicInfo }}, {{ .publicDate}}</p>
+    {{ if .publicInfo }}
+    <p class="publicInfo">
+        {{ .publicInfo }}, {{ .publicDate }}
+    </p>
+    {{ else }}
+    <p class="publicInfo">
+        {{ .publicDate }}
+    </p>
+    {{ end }}
     <p class="authors">{{ .authors | safeHTML}}</p>
     <div class="links">
         {{ if .paperUrl }}

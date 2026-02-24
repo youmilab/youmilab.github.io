@@ -55,4 +55,20 @@
         {{ end }}
     </div>
 </div>
+
+{{ if .Site.Data.previous_students }}
+<div class="previous-students">
+  <h2>Previous Students</h2>
+  <ul class="previous-list">
+    {{ range .Site.Data.previous_students }}
+      <li>
+        <strong>{{ .name }}</strong>
+        ({{ .degree }}; {{ .period }})
+        — {{ .focus }}
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
 {{ end }}

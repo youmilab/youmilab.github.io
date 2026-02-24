@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Regression Discontinuity on YOUMI LAB</title>
-    <link>https://youmilab.github.io/tags/regression-discontinuity/</link>
+    <link>https://youmilab.ai/tags/regression-discontinuity/</link>
     <description>Recent content in Regression Discontinuity on YOUMI LAB</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <atom:link href="https://youmilab.github.io/tags/regression-discontinuity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmilab.ai/tags/regression-discontinuity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quasi-experimental Designs</title>
-      <link>https://youmilab.github.io/research/qed/</link>
+      <link>https://youmilab.ai/research/qed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/research/qed/</guid>
+      <guid>https://youmilab.ai/research/qed/</guid>
       <description>&lt;p&gt;This line of research focuses on developing and applying causal inference methods in educational settings, by integrating methodologies from quasi-experimental designs, machine learning, and multilevel modeling. Ongoing projects include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(1)	advancing regression discontinuity designs tailored to educational settings and integrating them with other quasi-experimental designs&lt;/li&gt;

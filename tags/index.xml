@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on YOUMI LAB</title>
-    <link>https://youmilab.github.io/tags/</link>
+    <link>https://youmilab.ai/tags/</link>
     <description>Recent content in Tags on YOUMI LAB</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <atom:link href="https://youmilab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmilab.ai/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Causal DIF</title>
-      <link>https://youmilab.github.io/tags/causal-dif/</link>
+      <link>https://youmilab.ai/tags/causal-dif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/causal-dif/</guid>
+      <guid>https://youmilab.ai/tags/causal-dif/</guid>
       <description></description>
     </item>
     <item>
       <title>DAF</title>
-      <link>https://youmilab.github.io/tags/daf/</link>
+      <link>https://youmilab.ai/tags/daf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/daf/</guid>
+      <guid>https://youmilab.ai/tags/daf/</guid>
       <description></description>
     </item>
     <item>
       <title>DIF</title>
-      <link>https://youmilab.github.io/tags/dif/</link>
+      <link>https://youmilab.ai/tags/dif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/dif/</guid>
+      <guid>https://youmilab.ai/tags/dif/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Assessment</title>
-      <link>https://youmilab.github.io/tags/digital-assessment/</link>
+      <link>https://youmilab.ai/tags/digital-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/digital-assessment/</guid>
+      <guid>https://youmilab.ai/tags/digital-assessment/</guid>
       <description></description>
     </item>
     <item>
       <title>Evidence Factors</title>
-      <link>https://youmilab.github.io/tags/evidence-factors/</link>
+      <link>https://youmilab.ai/tags/evidence-factors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/evidence-factors/</guid>
+      <guid>https://youmilab.ai/tags/evidence-factors/</guid>
       <description></description>
     </item>
     <item>
       <title>Extended Time</title>
-      <link>https://youmilab.github.io/tags/extended-time/</link>
+      <link>https://youmilab.ai/tags/extended-time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/extended-time/</guid>
+      <guid>https://youmilab.ai/tags/extended-time/</guid>
       <description></description>
     </item>
     <item>
       <title>Functional Data</title>
-      <link>https://youmilab.github.io/tags/functional-data/</link>
+      <link>https://youmilab.ai/tags/functional-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/functional-data/</guid>
+      <guid>https://youmilab.ai/tags/functional-data/</guid>
       <description></description>
     </item>
     <item>
       <title>GenAI</title>
-      <link>https://youmilab.github.io/tags/genai/</link>
+      <link>https://youmilab.ai/tags/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/genai/</guid>
+      <guid>https://youmilab.ai/tags/genai/</guid>
       <description></description>
     </item>
     <item>
       <title>Heterogenous Treatment Effect</title>
-      <link>https://youmilab.github.io/tags/heterogenous-treatment-effect/</link>
+      <link>https://youmilab.ai/tags/heterogenous-treatment-effect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/heterogenous-treatment-effect/</guid>
+      <guid>https://youmilab.ai/tags/heterogenous-treatment-effect/</guid>
       <description></description>
     </item>
     <item>
       <title>Multilevel Causal Inference</title>
-      <link>https://youmilab.github.io/tags/multilevel-causal-inference/</link>
+      <link>https://youmilab.ai/tags/multilevel-causal-inference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/multilevel-causal-inference/</guid>
+      <guid>https://youmilab.ai/tags/multilevel-causal-inference/</guid>
       <description></description>
     </item>
     <item>
       <title>Policy Learning</title>
-      <link>https://youmilab.github.io/tags/policy-learning/</link>
+      <link>https://youmilab.ai/tags/policy-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/policy-learning/</guid>
+      <guid>https://youmilab.ai/tags/policy-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Regression Discontinuity</title>
-      <link>https://youmilab.github.io/tags/regression-discontinuity/</link>
+      <link>https://youmilab.ai/tags/regression-discontinuity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/regression-discontinuity/</guid>
+      <guid>https://youmilab.ai/tags/regression-discontinuity/</guid>
       <description></description>
     </item>
     <item>
       <title>Simulation</title>
-      <link>https://youmilab.github.io/tags/simulation/</link>
+      <link>https://youmilab.ai/tags/simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/simulation/</guid>
+      <guid>https://youmilab.ai/tags/simulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Sythetic Data</title>
-      <link>https://youmilab.github.io/tags/sythetic-data/</link>
+      <link>https://youmilab.ai/tags/sythetic-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/tags/sythetic-data/</guid>
+      <guid>https://youmilab.ai/tags/sythetic-data/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DIF on YOUMI LAB</title>
-    <link>https://youmilab.github.io/tags/dif/</link>
+    <link>https://youmilab.ai/tags/dif/</link>
     <description>Recent content in DIF on YOUMI LAB</description>
     <generator>Hugo -- 0.141.0</generator>
     <language>en-us</language>
-    <atom:link href="https://youmilab.github.io/tags/dif/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://youmilab.ai/tags/dif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Fairness and Algorithmic Fairness</title>
-      <link>https://youmilab.github.io/research/fair/</link>
+      <link>https://youmilab.ai/research/fair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://youmilab.github.io/research/fair/</guid>
+      <guid>https://youmilab.ai/research/fair/</guid>
       <description>&lt;p&gt;This line of research examines whether established definitions of test fairness can inform algorithmic fairness (and vice versa), and how fairness considerations can be integrated into causal inference methods. Ongoing projects include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;(i) exploring how fairness concepts from psychometrics (emerging in the 1960s) can inform modern algorithmic fairness (emerging in the 2010s).&lt;/li&gt;

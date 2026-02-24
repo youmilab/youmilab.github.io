@@ -6,28 +6,28 @@
   cv: "people/cv_youmisuk.pdf"
 
 - name : "Airui Meng"
-  position : "Master's Student"
+  position : "MS in Applied Statistics"
   image : "people/airuimeng.jpg"
   email : "am6817@tc.columbia.edu"
 
 - name : "Chenguang Pan"
-  position : "Ph.D. Candidate"
+  position : "Ph.D. in Measurement and Evaluation"
   image : "people/chenguangpan.png"
   email : "cp3280@tc.columbia.edu"
   webpage: "https://cgpan.github.io/"
 
 - name : "Thomas Harris"
-  position : "Ed.D. Student"
+  position : "Ed.D. in Math Education"
   image : "people/thomasharris.png"
   email : "thh2117@tc.columbia.edu"
 
 - name : "Weixuan Xiao"
-  position : "Ph.D. Student"
+  position : "Ph.D. in Measurement and Evaluation"
   image : "people/weixuanxiao.jpeg"
   email : "wx2299@tc.columbia.edu" 
 
 - name : "Yuxuan Li"
-  position : "Ph.D. Student"
+  position : "Ph.D. in Measurement and Evaluation"
   image : "people/yuxuanli.jpg"
   email : "yl5655@tc.columbia.edu"
 

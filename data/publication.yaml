@@ -2,6 +2,36 @@
 
 workingPapers:
 
+  - paperTitle : "Separable effects in four-arm and two-arm designs"
+    publicInfo : "arXiv"
+    publicDate: "2026"
+    authors: "Chan Park, <strong>Youmi Suk</strong>"
+    PDFUrl : "https://doi.org/10.48550/arXiv.2605.05984"
+    citeText: "@article{park2026separable,
+      title={Separable effects in four-arm and two-arm designs},
+      author={Park, Chan and Suk, Youmi},
+      year={2026},
+      DOI={10.48550/arXiv.2605.05984},
+      publisher={arXiv}
+    }"  
+    
+  - paperTitle : "Generative AI-based Monte Carlo simulation for method evaluation using synthetic multilevel data"
+    publicInfo : "arXiv"
+    publicDate: "2026"
+    authors: "<strong>Youmi Suk</strong>, <strong>Chenguang Pan</strong>, <strong>Weixuan Xiao</strong>"
+    PDFUrl : "https://doi.org/10.48550/arXiv.2605.05752"
+    citeText: "@article{suk2026generative,
+      title={Generative AI-based Monte Carlo simulation for method evaluation using synthetic multilevel data},
+      author={Suk, Youmi and Pan, Chenguang and Xiao, Weixuan},
+      year={2026},
+      DOI={10.48550/arXiv.2605.05752},
+      publisher={arXiv}
+    }"  
+    
+  - paperTitle : "Estimating optimal dynamic treatment regimes for personalized education: A tutorial and applications with machine learning"
+    publicDate: "2026"
+    authors: "<strong>Chenguang Pan</strong>, <strong>Yuxuan Li</strong>, <strong>Thomas Harris</strong>, <strong>Youmi Suk</strong>"
+
   - paperTitle : "Using response process data to measure test-taking effort in students receiving extended time accommodations"
     publicDate: "2026"
     authors: "<strong>Youmi Suk</strong>, <strong>Yuxin Cai</strong>, Benjamin J. Lovett"

@@ -5,7 +5,7 @@ workingPapers:
   - paperTitle : "Separable effects in four-arm and two-arm designs"
     publicInfo : "arXiv"
     publicDate: "2026"
-    authors: "Chan Park, <strong>Youmi Suk</strong>"
+    authors: "Chan Park, <strong>Youmi Suk</strong> (Co-first authors)"
     PDFUrl : "https://doi.org/10.48550/arXiv.2605.05984"
     citeText: "@article{park2026separable,
       title={Separable effects in four-arm and two-arm designs},
@@ -106,7 +106,7 @@ methods:
   - paperTitle : "Causal mediation and functional outcome analysis with process data"
     publicInfo : "Psychometrika"
     publicDate: "2026"
-    authors: "<strong>Youmi Suk</strong>, Chan Park (Equal Contribution)"
+    authors: "<strong>Youmi Suk</strong>, Chan Park (Co-first authors)"
     paperUrl: "https://doi.org/10.1017/psy.2026.10087"
     codeUrl: "https://github.com/qkrcks0218/FDA"    
     citeText: "@article{suk2026causal,

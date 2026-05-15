@@ -68,22 +68,24 @@ workingPapers:
       publisher={PsyArXiv}
     }"    
 
-  - paperTitle : "Fair and robust estimation of heterogeneous treatment effects for optimal policies in multilevel studies"
-    publicInfo : "PsyArXiv"
-    publicDate: "2024"
-    authors: "<strong>Youmi Suk</strong>, Chan Park, <strong>Chenguang Pan</strong>, Kwangho Kim"
-    PDFUrl : "https://doi.org/10.31234/osf.io/xz3jw_v2"
-    codeUrl: "https://github.com/youmisuk/FairCATE-Multilevel"
-    citeText: "@article{suk2024fair,
-      title={Fair and Robust Estimation of Heterogeneous Treatment Effects for Optimal Policies in Multilevel Studies},
-      author={Suk, Youmi and Park, Chan and Pan, Chenguang and Kim, Kwangho},
-      year={2024},
-      publisher={PsyArXiv}
-    }"
-
 
 methods:
 
+  - paperTitle : "Fair and robust estimation of heterogeneous treatment effects for optimal policies in multilevel studies"
+    publicInfo : "Multivariate Behavioral Research"
+    publicDate: "2026"
+    authors: "<strong>Youmi Suk</strong>, Chan Park, <strong>Chenguang Pan</strong>, Kwangho Kim"
+    paperUrl: "https://doi.org/10.1080/00273171.2026.2669081" 
+    PDFUrl : "https://doi.org/10.31234/osf.io/xz3jw_v2"
+    codeUrl: "https://github.com/youmisuk/FairCATE-Multilevel"
+    citeText: "@article{suk2026fair,
+      title={Fair and Robust Estimation of Heterogeneous Treatment Effects for Optimal Policies in Multilevel Studies},
+      author={Suk, Youmi and Park, Chan and Pan, Chenguang and Kim, Kwangho},
+      year={2026},
+      journal={Multivariate Behavioral Research},
+      DOI={10.1080/00273171.2026.2669081}
+    }"
+    
 
   - paperTitle : "Rethinking item fairness using single world intervention graphs"
     publicInfo : "Journal of Educational and Behavioral Statistics"

@@ -114,7 +114,10 @@ methods:
        DOI={10.1017/psy.2026.10087},
        journal={Psychometrika},
        author={Suk, Youmi and Park, Chan},
-       year={2025}
+       year={2025},
+       volume={91},
+       number={2},
+       pages={424-444}
     }"
 
   - paperTitle : "Using generative AI for sequential data generation in Monte Carlo simulation studies"
